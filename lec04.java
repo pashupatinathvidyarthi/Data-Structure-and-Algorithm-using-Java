@@ -4,5 +4,7 @@ public class lec04 {
         System.out.println(3);
         System.out.println("3+4");
         System.out.println(3+4);
+
+        //This is the single line comment
     }
 }
