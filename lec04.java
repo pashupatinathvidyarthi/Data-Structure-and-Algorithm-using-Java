@@ -7,7 +7,9 @@ public class lec04 {
 
         //This is the single line comment
 
-        /* This is a 
-        multi-line comment */
+
+        /* 
+        This is a multi-line comment 
+        */
     }
 }
